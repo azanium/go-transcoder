@@ -23,7 +23,7 @@ package main
 import (
 	"os/exec"
 
-	"github.com/azanium/go-transcode/hls"
+	"github.com/azanium/go-transcoder/hls"
 )
 
 func main() {
